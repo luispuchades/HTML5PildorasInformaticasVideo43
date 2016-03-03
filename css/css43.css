@@ -1,0 +1,22 @@
+/**CSS Document
+ * Curso: HMTL5 - Pildoras Informáticas - API DRAG&DROP V
+ * Origin: Video43.html ==> Drag&Drop V
+ */
+
+#chartset: "UTF-8";
+
+#caja-imagen {
+    border: 1px solid #F00;
+    left: 0;
+    margin: 30px;
+    width: 300px;
+
+}
+
+#zona-destino {
+    border: 1px solid #00F;
+    height: 400px;
+    left: 0;
+    margin: 100px;
+    width: 550px;
+}
